@@ -7,6 +7,7 @@ package _05_minion;
 
 import static org.junit.Assert.*;
 
+
 import org.junit.Test;
 
 
